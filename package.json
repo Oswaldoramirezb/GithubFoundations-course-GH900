@@ -1,0 +1,17 @@
+{
+  "name": "pruebas-github",
+  "version": "1.0.0",
+  "description": "Suite de pruebas funcionales",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["pruebas", "jest", "test"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
