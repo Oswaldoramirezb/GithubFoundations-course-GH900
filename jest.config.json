@@ -1,0 +1,10 @@
+{
+    "testEnvironment": "node",
+    "testMatch": [
+        "**/*.test.js"
+    ],
+    "collectCoverageFrom": [
+        "prueba.js"
+    ],
+    "verbose": true
+}
