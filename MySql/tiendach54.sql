@@ -1,0 +1,1 @@
+SELECT * FROM tiendach54.products;
