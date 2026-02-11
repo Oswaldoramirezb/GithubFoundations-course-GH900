@@ -1,6 +1,7 @@
 # Archivo de prueba para ramas y merge
 
 Este archivo es para practicar:
+
 - git branch
 - git checkout
 - git merge
